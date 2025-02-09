@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Yandex-Practicum/go-autotests/internal/random"
+	"github.com/d5kx/go-autotests/internal/random"
 )
 
 var unusedPortCmd = cmd{

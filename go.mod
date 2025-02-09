@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/go-autotests
+module github.com/d5kx/go-autotests
 
 go 1.22.1
 

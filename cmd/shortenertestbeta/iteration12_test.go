@@ -16,7 +16,7 @@ import (
 	"github.com/jackc/pgx/stdlib"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/Yandex-Practicum/go-autotests/internal/fork"
+	"github.com/d5kx/go-autotests/internal/fork"
 )
 
 // Iteration12Suite является сьютом с тестами и состоянием для инкремента
